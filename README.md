@@ -1,1 +1,1 @@
-# Improve-Image-Dehazing-with-RL
+# Image Dehazing with VAE and RL
